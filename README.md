@@ -76,7 +76,6 @@ aws-backup-system/
 ├── report.py
 ├── email_sender.py
 ├── s3_upload.py
-├── requirements.txt
 └── README.md
 ```
 
